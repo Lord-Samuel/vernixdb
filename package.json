@@ -1,0 +1,27 @@
+{
+  "name": "vernixdb",
+  "version": "1.0.0",
+  "description": "A Db made to store data in Json format",
+  "keywords": [
+    "Db"
+  ],
+  "homepage": "https://github.com/Lord-Samuel/vernixdb#readme",
+  "bugs": {
+    "url": "https://github.com/Lord-Samuel/vernixdb/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lord-Samuel/vernixdb.git"
+  },
+  "license": "MIT",
+  "author": "Lord-Samuel",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "npm --watch index.js"
+  },
+  "dependencies": {
+    "async-mutex": "^0.5.0"
+  }
+}
