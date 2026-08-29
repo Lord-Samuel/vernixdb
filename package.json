@@ -1,13 +1,13 @@
 {
-  "name": "vernixdb",
+  "name": "nixdb",
   "version": "1.0.0",
   "description": "A Db made to store data in Json format",
   "keywords": [
     "Db"
   ],
-  "homepage": "https://github.com/Lord-Samuel/vernixdb#readme",
+  "homepage": "https://github.com/Lord-Samuel/Nitix-db#readme",
   "bugs": {
-    "url": "https://github.com/Lord-Samuel/vernixdb/issues"
+    "url": "https://github.com/Lord-Samuel/Nitix-db/issues"
   },
   "repository": {
     "type": "git",
